@@ -1,0 +1,6 @@
+requests
+scrapy
+selenium
+bs4
+pandas
+pycountry
